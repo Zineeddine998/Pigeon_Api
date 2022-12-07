@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Zineeddine998/Pigeon_Api#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
